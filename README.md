@@ -3,7 +3,7 @@
 ## 1. Overall Project Objectives
 - Create a Power BI Dashboard sourced from a SQL database that has imported hotel revenue data downloaded from absentdata.com that will answer sample stakeholder questions:
   1. Is hotel revenue growing by the year?
-  2. Should parkingh lot size be increased?
+  2. Should parking lot size be increased?
   3. What trends can be seen in the data?
 
 ## 2. Description of Data
@@ -43,3 +43,15 @@ E. Develop visual dashboard product that answers stackholder's questions.
 
 - SQL Query used to pull specific data from tables into power BI. Selects all columns from 2018, 2019, and 2020 revenue data combined using union command and joins to market segment table on market_segment column as well as to meal cost table on meal column keeping all columns in the combined 2018, 2019, and 2020 tables and columns that exist in both combined table and the respective matching column of the market segment and meal tables as it is a left join operation. 
 
+![image](https://user-images.githubusercontent.com/100554707/166868385-4b578718-e604-4915-aa5a-9d7110152dfd.png)
+
+- Power BI dashboard created that shows the changes in revenue over time using a line plot as well as showing total revenue, average ADR with mini line plot, average discount with mini line plot, and car spaces with mini line plot.
+- Bottom portion of dashboard shows revenue proportion by hotel in a donut plot with a pivot table listing revenue, parking space, parking percentage seperated and aggregated by hotel and year. 
+
+![image](https://user-images.githubusercontent.com/100554707/166868657-e6dd4553-a6d6-4dbe-b055-eab7e2dcdcd5.png)
+
+![image](https://user-images.githubusercontent.com/100554707/166868674-46df4b59-0fb4-482e-a49b-600713b5f59e.png)
+
+![image](https://user-images.githubusercontent.com/100554707/166868692-f1eafa89-d255-4048-b267-add5a0707744.png)
+
+- Dashboard also includes 3 slicers that allow end user to change visual displayed by date, hotel type, and country of data. 
