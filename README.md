@@ -1,12 +1,12 @@
 # Hotel-Data-SQL-PowerBI-Dashboard
 
-## 1. Overall Project Objectives
+## 1. Overall Project Objectives:
 - Create a Power BI Dashboard sourced from a SQL database that has imported hotel revenue data downloaded from absentdata.com that will answer sample stakeholder questions:
   1. Is hotel revenue growing by the year?
   2. Should parking lot size be increased?
   3. What trends can be seen in the data?
 
-## 2. Description of Data
+## 2. Description of Data:
 - Tables:
   - dbo.'2018$': Table containing hotels 2018 revenue data. 
   - dbo.'2019$': Table containing hotels 2019 revenue data. 
@@ -59,3 +59,7 @@ E. Develop visual dashboard product that answers stackholder's questions.
 ![image](https://user-images.githubusercontent.com/100554707/166868692-f1eafa89-d255-4048-b267-add5a0707744.png)
 
 - Dashboard slicer that allows end user to adjust the country included in the visual dashboards relative to data. 
+
+## 5. Findings:
+
+- From the dashboard we can see that revenue has been increased from 2018 to 2019 but dropped slightly in the 2020 year. There is also no compelling evidence that parking lot size should be increased as the hotel is only using about 2%-3% of parking spaces per year. We can see a trend of resort hotel's revenue increasing close to during the summer time spiking in July with an exception of 2020 while city hotels see revenue spikes around end of September. 
