@@ -1,3 +1,3 @@
 # Hotel-Data-SQL-PowerBI-Dashboard
 
-# Hi
+##1. Overall Project Objectives
