@@ -28,7 +28,11 @@
 
 ## 3. Project Plan:
 A. Load all data in local SQL database. 
+
 B. Query all necessary fields from various tables for dashboard. 
+
 C. Connect SQL server query to Power BI interface.
+
 D. Create new fields in Power BI that will assist in data visualization. 
+
 E. Develop visual dashboard product that answers stackholder's questions. 
