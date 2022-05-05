@@ -25,3 +25,10 @@
   - country: Nvarchar(255), country code of hotel. 
   - required_car_parking_spaces: Float, required parking space for stay. 
   - Parking Percentage: Project created float, percentage of parking space used. Equals to (sum(required_car_parking_spaces)/(Total Nights))
+
+## 3. Project Plan:
+A. Load all data in local SQL database. 
+B. Query all necessary fields from various tables for dashboard. 
+C. Connect SQL server query to Power BI interface.
+D. Create new fields in Power BI that will assist in data visualization. 
+E. Develop visual dashboard product that answers stackholder's questions. 
