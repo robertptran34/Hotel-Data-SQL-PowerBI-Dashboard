@@ -62,4 +62,4 @@ E. Develop visual dashboard product that answers stackholder's questions.
 
 ## 5. Findings:
 
-- From the dashboard we can see that revenue has been increased from 2018 to 2019 but dropped slightly in the 2020 year. There is also no compelling evidence that parking lot size should be increased as the hotel is only using about 2%-3% of parking spaces per year. We can see a trend of resort hotel's revenue increasing close to during the summer time spiking in July with an exception of 2020 while city hotels see revenue spikes around end of September. 
+- From the dashboard we can see that revenue has been increased from 2018 to 2019 but dropped slightly in the 2020 year. There is also no compelling evidence that parking lot size should be increased as the hotel is only using about 2%-3% of parking spaces per year. We can see a trend of resort hotel's revenue increasing close to during the summer time spiking in July with an exception of 2020 while city hotels see revenue spikes around the end of September. 
