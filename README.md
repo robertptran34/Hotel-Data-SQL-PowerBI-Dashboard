@@ -36,3 +36,10 @@ C. Connect SQL server query to Power BI interface.
 D. Create new fields in Power BI that will assist in data visualization. 
 
 E. Develop visual dashboard product that answers stackholder's questions. 
+
+## 4. Project Progress:
+
+![image](https://user-images.githubusercontent.com/100554707/166867863-5547f170-4f0f-45b9-a109-83dbbcaaa2bf.png)
+
+- SQL Query used to pull specific data from tables into power BI. Selects all columns from 2018, 2019, and 2020 revenue data combined using union command and joins to market segment table on market_segment column as well as to meal cost table on meal column keeping all columns in the combined 2018, 2019, and 2020 tables and columns that exist in both combined table and the respective matching column of the market segment and meal tables as it is a left join operation. 
+
