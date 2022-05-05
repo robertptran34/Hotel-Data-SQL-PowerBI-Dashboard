@@ -50,8 +50,12 @@ E. Develop visual dashboard product that answers stackholder's questions.
 
 ![image](https://user-images.githubusercontent.com/100554707/166868657-e6dd4553-a6d6-4dbe-b055-eab7e2dcdcd5.png)
 
+- Dashboard slicer that allows end user to adjust the dates included in the visual dashboards relative to data. 
+
 ![image](https://user-images.githubusercontent.com/100554707/166868674-46df4b59-0fb4-482e-a49b-600713b5f59e.png)
+
+- Dashboard slicer that allows end user to adjust the hotel type included in the visual dashboards relative to data. 
 
 ![image](https://user-images.githubusercontent.com/100554707/166868692-f1eafa89-d255-4048-b267-add5a0707744.png)
 
-- Dashboard also includes 3 slicers that allow end user to change visual displayed by date, hotel type, and country of data. 
+- Dashboard slicer that allows end user to adjust the country included in the visual dashboards relative to data. 
